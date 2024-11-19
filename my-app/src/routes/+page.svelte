@@ -45,4 +45,8 @@
         font-family: var(--header-font);
         font-size: 2em;
     }
+
+    article p {
+        margin-top: 0.9375em;
+    }
 </style>

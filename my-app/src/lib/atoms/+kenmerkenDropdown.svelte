@@ -24,7 +24,7 @@
         <img src="/assets/temperatuur-icon.svg" alt="Voeding icoon">
         Temperatuur
     </summary>
-    <p>In de lente en zomer elke maand plantvoeding geven.</p>
+    <p>In de winter minimaal 12 graden celsius en in de zomer maximaal 22°C.</p>
 </details>
 
 <details name="kenmerken">
@@ -32,7 +32,7 @@
         <img src="/assets/giftig-icon.svg" alt="Voeding icoon">
         Giftig
     </summary>
-    <p>In de lente en zomer elke maand plantvoeding geven.</p>
+    <p>De Gynura is giftig voor huisdieren</p>
 </details>
 
 <details name="kenmerken">
@@ -40,7 +40,7 @@
         <img src="/assets/verpotten-icon.svg" alt="Voeding icoon">
         Verpotten
     </summary>
-    <p>In de lente en zomer elke maand plantvoeding geven.</p>
+    <p>Ververs de aarde of verpot de Gynura elke 2 jaar in de lente. </p>
 </details>
 
 <details name="kenmerken">
@@ -48,7 +48,7 @@
         <img src="/assets/watergeven-icon.svg" alt="Voeding icoon">
         Watergeven
     </summary>
-    <p>In de lente en zomer elke maand plantvoeding geven.</p>
+    <p>Een keer per week een goede scheut water; maar laat de grond wel licht opdrogen voordat je de volgende scheut geeft - zolang de grond maar niet helemaal uitdroogt. In de winter heeft de Gynura een stuk minder water nodig.</p>
 </details>
 
 <details name="kenmerken">
@@ -56,7 +56,7 @@
         <img src="/assets/zonlicht-icon.svg" alt="Voeding icoon">
         Zonlicht
     </summary>
-    <p>In de lente en zomer elke maand plantvoeding geven.</p>
+    <p>Hoe meer zonlicht (maar niet direct in de zon!) de bladeren krijgen, hoe paarser ze kleuren.</p>
 </details>
 
 <details name="kenmerken">
